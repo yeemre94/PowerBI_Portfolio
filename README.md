@@ -4,6 +4,12 @@ Welcome to my Power BI portfolio! This repository showcases some of the dashboar
 🚀 Projects:
 
 1. Amazon Prime Video Analysis:
+ ## 🔗 Live Dashboard
+👉 [Click here to view the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjI3YjYyZGItZGIzZS00ZGNiLTg5M2QtYjUzZGU5YWFmN2Y5IiwidCI6IjRmZWE5MWY4LTM4Y2UtNDRiNS1iZTliLTMxMjY2MmY2N2MwNSIsImMiOjl9)
+## 🖼️ Screenshot
+![image](https://github.com/user-attachments/assets/851332c5-6b05-4cab-9567-62830a2f07b5)
+
+
 
 This dashboard provides a comprehensive overview of Amazon Prime Video's content catalog from 1920 to 2021, helping users explore trends in genres, ratings, and content distribution.
 
@@ -11,13 +17,7 @@ This dashboard provides a comprehensive overview of Amazon Prime Video's content
 Objective:
 To explore and visualize the distribution of Amazon Prime Video's titles by genre, rating, release year, country, and type (Movie/TV Show).
 
-Tools Used:
-
-Power BI
-
-Power Query
-
-Data visualization best practices
+Tools Used: Power BI-Power Query-Data visualization best practices
 
 📈 Key Insights
 Total Titles: 9,655
