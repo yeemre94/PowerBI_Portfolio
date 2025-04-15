@@ -39,7 +39,6 @@ To explore and visualize the distribution of Amazon Prime Video's titles by genr
 ## 🧠 Skills Demonstrated
 
 - Data cleaning and transformation  
-- DAX for custom calculations  
 - Designing interactive dashboards  
 - Storytelling with data  
 - Visualizing geographic and temporal trends
