@@ -51,7 +51,7 @@ This interactive dashboard explores **250+ cities worldwide**, comparing key wel
 👉 [Click here to view the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDJmNDI2YWQtYTM3MS00MmFkLWIyZmUtOTljMDRjODY3MDBlIiwidCI6IjRmZWE5MWY4LTM4Y2UtNDRiNS1iZTliLTMxMjY2MmY2N2MwNSIsImMiOjl9)
 
 ## 📘 Web Scraping Notebook  
-🔍 [View the GitHub notebook used for data scraping]([https://lnkd.in/d7eybx7W](https://github.com/yeemre94/Numbeo-Data-Scraper/blob/main/numbeo_data_scrapping.ipynb))
+🔍 [View the GitHub notebook used for data scraping](https://github.com/yeemre94/Numbeo-Data-Scraper/blob/main/numbeo_data_scrapping.ipynb))
 
 ## 🖼️ Screenshot  
 ![qua_1](https://github.com/user-attachments/assets/1afbee66-899b-4368-aefb-07c78bf4667d)
