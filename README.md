@@ -72,12 +72,6 @@ This interactive dashboard explores **250+ cities worldwide**, comparing key wel
 - **Storytelling** – Insight-driven design and user-friendly interface  
 - **Data Source** – [Numbeo.com](https://www.numbeo.com/)
 
-## 📂 Files
-
-- `qua_1.png`: Dashboard screenshot  
-- `dashboard.pbix`: Power BI file (optional if sharing)  
-- `scraper.ipynb`: Jupyter Notebook for scraping (linked above)
-
 
 ---
 
